@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JUANA LUZ - Página Personal</title>
+</head>
+<body>
+    <h1>JUANA LUZ</h1>
+    <p>Carrera: [ccom]</p>
+    <p>Cursos que he tomado:</p>
+    <ul>
+        <li>discretas</li>
+        <li>ivu</li>
+        <li>progrmacion</li>
+    </ul>
+    <p>Compañeros de clase:</p>
+    <ul>
+        <li><a href="http://enlace_compañero1.com">Compañero 1</a></li>
+        <li><a href="http://enlace_compañero2.com">Compañero 2</a></li>
+        <li><a href="http://enlace_compañero3.com">Compañero 3</a></li>
+    </ul>
+</body>
+</html>
